@@ -26,3 +26,10 @@ Original blog post: http://ken-soft.com/2009/01/02/sprite-class-in-c-using-sdl/
     s1->animate()->draw(screen,0,0);
     SDL_Flip(screen);
 ```
+
+<table>
+<tr>
+<td><img src="http://www.ken-soft.com/code/c/SDL/Sprite/samus_normal_run.bmp"/></td>
+<td><img src="http://www.ken-soft.com/code/c/SDL/Sprite/sshot.PNG"/></td>
+</tr>
+</table>
