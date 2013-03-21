@@ -35,6 +35,9 @@
 		<Linker>
 			<Add option="`sdl-config --libs`" />
 		</Linker>
+		<Unit filename="Main.h" />
+		<Unit filename="Sprite.cpp" />
+		<Unit filename="Sprite.h" />
 		<Unit filename="cb.bmp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
