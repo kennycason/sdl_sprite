@@ -5,7 +5,7 @@ Features include sprite animation, rotation, stretching, transparencies, and oth
 
 I hope this is somewhat useful. The source is available and should be fairly simple to work with.
 Feel free to modify it however you want. please create an issue about any bugs are suggestions that you have. Thanks.
-Original blog post: http://ken-soft.com/2009/01/02/sprite-class-in-c-using-sdl/
+Original blog post: http://kennycason.com/posts/2009-01-02-sprite-class-in-c-using-sdl.html
 
 <b>Compile & Run</b>
 ```
