@@ -36,7 +36,7 @@ g++ *.cpp -lSDL
 
 <table>
 <tr>
-<td><img src="http://www.ken-soft.com/code/c/SDL/Sprite/samus_normal_run.bmp"/></td>
-<td><img src="http://www.ken-soft.com/code/c/SDL/Sprite/sshot.PNG"/></td>
+<td><img src="https://raw.githubusercontent.com/kennycason/sdl_sprite/master/sprites/samus_normal_run.bmp"/></td>
+<td><img src="https://raw.githubusercontent.com/kennycason/sdl_sprite/master/sprites/character.bmp"/></td>
 </tr>
 </table>
